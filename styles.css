@@ -1,0 +1,9 @@
+.log {
+    color: black;
+}
+.warn {
+    color: yellow;
+}
+.error {
+    color: red;
+}
